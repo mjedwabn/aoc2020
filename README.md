@@ -10,6 +10,6 @@ Advent of Code 2020 in Rust & friends
 3. Visual Studio Code
 
 ## References
-1. [Rust book] https://doc.rust-lang.org/book/title-page.html
-2. [Tests] https://doc.rust-lang.org/cargo/guide/tests.html
-3. [Testing guide] https://doc.rust-lang.org/book/ch11-00-testing.html
+1. [Rust book](https://doc.rust-lang.org/book/title-page.html)
+2. [Tests](https://doc.rust-lang.org/cargo/guide/tests.html)
+3. [Testing guide](https://doc.rust-lang.org/book/ch11-00-testing.html)
